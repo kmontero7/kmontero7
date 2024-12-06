@@ -1,4 +1,4 @@
-## Repositorio de GitHub dedicado al aprendizaje de SQL Server ! 💼
+# Repositorio de GitHub dedicado al aprendizaje de SQL Server ! 💼
 ## 📝 Descripción
 En este repositorio, he recopilado una serie de conceptos clave, ejercicios prácticos y recursos útiles para que aquellos que están comenzando en el mundo del análisis de datos puedan sumergirse en el poder de SQL Server. Como alguien que ha estado en la búsqueda de su primer empleo en este campo, entiendo lo crucial que es dominar esta herramienta y estar preparado para los desafíos del mundo real. SQL Aprende Bases de Datos, Consultas, Funciones, Tablas y Permisos. Diseña y Programa una Base de Datos Relacional SQL.
 
